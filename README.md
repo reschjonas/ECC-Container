@@ -1,8 +1,8 @@
-# ECC-Container
+# SecureSafe
 
 # A Simple ECC-Based File Encryption Container
 
-This App is a lightweight, easy-to-use file encryption tool built with Python. It leverages **Elliptic Curve Cryptography (ECC)** for key management and **AES encryption** to secure files within a digital safe container.
+SecureSafe is a lightweight, easy-to-use file encryption tool built with Python. It leverages **Elliptic Curve Cryptography (ECC)** for key management and **AES encryption** to secure files within a digital safe container.
 
 This tool allows users to:
 - Generate ECC key pairs.
@@ -25,7 +25,7 @@ This tool allows users to:
 
 ### 1. Clone the Repository:
 ```bash
-git clone https://github.com/reschjonas/ECC-Container.git
+git clone https://github.com/reschjonas/SecureSafe.git
 cd ECC-Container
 (or just download the zip file)
 ```
